@@ -120,7 +120,7 @@ border-radius: 7px;
 }
 /* Work section */
 .grid-single-item .grid-single-image{
-    width: 200px;
+    width: 100%;
 }
 .work-item{
     display: grid;
